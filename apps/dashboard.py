@@ -66,7 +66,7 @@ page_content_2_modal = html.Div(
                 dbc.ModalBody(
                     children=[
                         html.P("When looking at the avg+total incidents per day, it appears that a gun related crime is more likely to happen on a Saturday and Sunday compared to the rest of the days. This could be attributed to the fact that people are more likely to go out during the weekend."),
-                        html.P("From looking at the incidents per month, two of the safest months are November and December. This is likely due to it being the end of the year where most people are celebrating holidays (i.e. Thanksigiving, Christmas, Hanukkah."),
+                        html.P("From looking at the incidents per month, two of the safest months are November and December. This is likely due to it being the end of the year where most people are celebrating holidays (i.e. Thanksigiving, Christmas, Hanukkah)."),
                         html.P("As the years go by, gun violence crimes are increasing at a steady rate. In 2014, there were ~35k incidents whereas in 2017, there were 46.2k incidents.")
                     ]
                 ),
