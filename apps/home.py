@@ -22,7 +22,7 @@ description = dbc.Container(
             className="mt-3",
             children=[
                 'View source on ',
-                html.A(children=['GitHub'], href="https://github.com/aLeadPencil/gun-violence-dashboard", target="_blank", style = {'color': 'red'}),
+                html.A(children=['GitHub'], href="https://github.com/aLeadPencil/us-gun-violence-dashboard", target="_blank", style = {'color': 'red'}),
                 '.'
             ]
         )
