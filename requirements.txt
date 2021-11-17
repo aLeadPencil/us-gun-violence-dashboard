@@ -1,20 +1,23 @@
-Brotli @ file:///D:/bld/brotli-split_1635846030050/work
-click @ file:///D:/bld/click_1635822759200/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1632235402030/work
-dash-bootstrap-components @ file:///home/conda/feedstock_root/build_artifacts/dash-bootstrap-components_1634714739493/work
-dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
-Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1633384704162/work
-Flask-Compress @ file:///home/conda/feedstock_root/build_artifacts/flask-compress_1623842138238/work
+Brotli==1.0.9
+click==8.0.3
+colorama==0.4.4
+dash==2.0.0
+dash-bootstrap-components==1.0.0
+dataclasses==0.8
+Flask==2.0.2
+Flask-Compress==0.0.0
 gunicorn==20.1.0
-itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
-MarkupSafe @ file:///D:/bld/markupsafe_1635833738092/work
-numpy @ file:///D:/bld/numpy_1636145501648/work
-pandas @ file:///D:/bld/pandas_1636223524156/work
-plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1636993727056/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1626090218611/work
-Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+numpy==1.21.4
+pandas==1.3.4
+pip==21.3.1
+plotly==5.4.0
+python-dateutil==2.8.2
+pytz==2021.3
+setuptools==59.1.1
+six==1.16.0
+tenacity==8.0.1
+Werkzeug==2.0.1
+wheel==0.37.0
